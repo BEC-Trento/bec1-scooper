@@ -1,0 +1,7 @@
+{
+"save": false,
+"get_scope": false,
+"number_of_frames": {"horiz1": 3, "horiz4": 5},
+"run_name": "eos_triplets_2",
+"scope_timeout": 10
+}
